@@ -192,7 +192,7 @@ MySQL·Redis·AWS를 활용해 데이터와 인프라를 다루는 데 익숙하
 ## 🚀 Experience
 
 
-**멋쟁이사자처럼 상명대학교 14기 백엔드** | 2026.02. - 현재
+**멋쟁이사자처럼 상명대학교 14기 백엔드** | 2026.04. - 현재
 - Spring 기반 백엔드 과제 및 팀 프로젝트 수행
 - 팀 프로젝트 및 해커톤 기획 및 리딩
 - 개발 스터디 운영 및 구성원 성장 지원
@@ -205,17 +205,3 @@ MySQL·Redis·AWS를 활용해 데이터와 인프라를 다루는 데 익숙하
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eunxo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer"/>
-
-</div>
