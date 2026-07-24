@@ -8,7 +8,7 @@
 
 <div align="center">
 
-👋 Hi there! I'm 최은서 (eunxo)  
+👋 Hi there! I'm 최은서 eunxo
 💻 I build reliable services from backend to frontend
 
 </div>
