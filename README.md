@@ -93,7 +93,7 @@ Vue와 Spring을 기반으로 구축한 반려동물 전문 쇼핑몰 웹 서비
 
 <div>
 
-이미지 표시 이미지 표시 이미지 표시
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
 역할: 백엔드 개발 · 프론트엔드 개발
@@ -110,7 +110,7 @@ Java로 구현한 반려동물 육성 시뮬레이션 게임
 
 <div>
 
-이미지 표시
+
 
 </div>
 역할: 개인 개발
@@ -126,7 +126,6 @@ Java로 구현한 반려동물 육성 시뮬레이션 게임
 
 <div>
 
-이미지 표시 이미지 표시
 
 </div>
 역할: 백엔드 개발
@@ -158,6 +157,4 @@ Spring 기반 백엔드 과제 및 팀 프로젝트 수행
 개발 스터디 운영 및 구성원 성장 지원
 
 <br>
-<br> <div align="center">
-📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eunxo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7"/> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer"/> </div>
+<br> 
