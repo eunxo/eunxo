@@ -1,14 +1,10 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=250&section=header&text=Hello,%20I'm%20eunxo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=최은서%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20"/>
-
-</div>
 
 <br>
 
 <div align="center">
 
-👋 Hi there! I'm 최은서 (eunxo)  
+👋 Hi there! I'm eunxo 
 💻 I build reliable services from backend to frontend
 
 </div>
