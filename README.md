@@ -86,24 +86,80 @@ MySQL·Redis·AWS를 활용해 데이터와 인프라를 다루는 데 익숙하
 </div>
 
 <br>
+📱 Projects
+<br>
+🐾 pet_mate | 반려동물 쇼핑몰 웹사이트
 
----
+Vue와 Spring을 기반으로 구축한 반려동물 전문 쇼핑몰 웹 서비스
+
+역할: 백엔드 개발 · 프론트엔드 개발
+
+기술 스택: Vue.js · Spring · MySQL
+
+담당 업무
+
+Spring 기반 상품·주문·결제 도메인 설계 및 REST API 구현
+회원 인증 및 권한 관리 로직 설계
+Vue.js 기반 상품 목록, 상세, 장바구니 등 주요 화면 개발
+백엔드-프론트엔드 간 데이터 연동 및 예외 처리
+<br>
+🐶 CtoU | 동물 키우기 시뮬레이션 게임
+
+Java로 구현한 반려동물 육성 시뮬레이션 게임
+
+역할: 개인 개발
+
+기술 스택: Java
+
+담당 업무
+
+캐릭터 성장 및 상태 변화 로직 설계 (객체지향 설계 적용)
+사용자 입력에 따른 이벤트 및 상태 관리 시스템 구현
+게임 진행 흐름 및 예외 상황 처리 로직 구현
+<br>
+🦁 LikeLion14th-BE | 멋쟁이사자처럼 과제 프로젝트 (쇼핑몰 웹사이트)
+
+멋쟁이사자처럼 상명대학교 동아리 백엔드 과정에서 진행한 쇼핑몰 웹사이트 과제 프로젝트
+
+역할: 백엔드 개발
+
+기술 스택: Java · Spring
+
+담당 업무
+
+상품·회원·주문 도메인 설계 및 API 구현
+계층형 아키텍처(Controller-Service-Repository) 기반 코드 구조 설계
+데이터베이스 스키마 설계 및 JPA 기반 데이터 처리
+<br>
+<br>
+🤝 팀 프로젝트 협업 플랫폼 (Organizations)
+
+대학교 팀 프로젝트 진행 과정에서 겪는 소통·일정 관리의 어려움을 해결하기 위해 기획한 협업 플랫폼. 게시글 피드, 회의록, 투표, 캘린더 등 팀 프로젝트 운영에 필요한 기능을 한 곳에서 제공하는 것을 목표로 함
+
+역할: 백엔드 개발 · 데이터베이스 설계
+
+기술 스택: Java · Spring · MySQL · Redis · AWS
+
+담당 업무
+
+프로젝트/팀원 관리, 게시글 피드, 회의록, 투표, 알림, 캘린더 등 다중 도메인의 ERD 설계
+Spring 기반 REST API 서버 아키텍처 설계 및 구현
+Redis를 활용한 세션 관리 및 캐싱으로 응답 성능 개선
+AWS 환경에서의 배포 및 인프라 구성
+실시간 알림을 위한 related_id/related_type 기반 다형적 알림 구조 설계
+<br>
+<br>
+🚀 Experience
+
+
+멋쟁이사자처럼 상명대학교 14기 백엔드 | 2026.03. - 현재
+
+Spring 기반 백엔드 과제 및 팀 프로젝트 수행
+팀 프로젝트 및 해커톤 기획 및 리딩
+개발 스터디 운영 및 구성원 성장 지원
+
 
 <br>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eunxo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer"/>
-
-</div>
+<br> <div align="center">
+📊 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eunxo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C9A7"/> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer"/> </div>
