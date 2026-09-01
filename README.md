@@ -186,11 +186,9 @@
 <br>
 
 ## 🚀 Experience
-
-
 **멋쟁이사자처럼 상명대학교 14기 백엔드** | 2026.04. - 현재
 - Spring 기반 백엔드 과제 및 팀 프로젝트 수행
-- 아아디어톤( Job To do )
+- 아이디어톤( Job To do )
 - 교내 해커톤 ( Teamply )
 - 연합해커톤 ( MCM Memory ) 
 
@@ -203,10 +201,3 @@
 
 ## 🌐 Language
 - TOEIC 950
-
----
-
-<br>
-
-<div align="center">
-
