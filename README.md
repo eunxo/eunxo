@@ -196,6 +196,14 @@
 
 <br>
 
+## 🏆 Certificate
+- SQLD (SQL 개발자)
+
+<br>
+
+## 🌐 Language
+- TOEIC 950
+
 ---
 
 <br>
