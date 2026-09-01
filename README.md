@@ -4,8 +4,7 @@
 
 <div align="center">
 
-👋 Hi there! I'm eunxo 
-💻 I build reliable services from backend to frontend
+
 
 </div>
 
@@ -13,12 +12,10 @@
 
 <div align="center">
 
-안녕하세요! 도전 속에서 배우고 끝까지 해내는 최은서입니다.  
-Spring과 Java를 기반으로 안정적인 백엔드 서비스를 설계하고,  
-Vue와 웹 기술로 사용자와 맞닿는 화면까지 직접 구현합니다.  
-MySQL·Redis·AWS를 활용해 데이터와 인프라를 다루는 데 익숙하며,  
-팀 프로젝트를 통해 협업하고 문제를 해결하는 과정에서 성장하고 있습니다.  
-앞으로도 더 단단한 서비스를 만드는 개발자로 성장하고 싶습니다 🌱
+안녕하세요 !  백엔드 개발자로 커리어를 시작하여 현재는 서비스 기획을 담당하고 있는 최은서입니다.
+직접 개발 경험을 통해 기술적 실현 가능성을 판단하는 감각을 갖추었으며,
+이를 바탕으로 개발자와 원활히 소통하며 협업하는 것을 강점으로 삼고 있습니다.
+사용자 인터뷰와 데이터를 근거로 가설을 검증하며 제품을 만들어갑니다 🌱
 
 </div>
 
@@ -78,6 +75,7 @@ MySQL·Redis·AWS를 활용해 데이터와 인프라를 다루는 데 익숙하
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
 
